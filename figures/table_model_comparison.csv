@@ -1,7 +1,0 @@
-model,clusters,coverage_pct,noise_pct,largest_cluster_pct,silhouette,davies_bouldin,calinski_harabasz
-K-Means k=4,4,100.0,0.0,42.8,0.213,1.462,258.614
-K-Means k=5,5,100.0,0.0,29.1,0.214,1.371,267.287
-Ward k=4,4,100.0,0.0,54.3,0.156,1.59,202.192
-Ward k=5,5,100.0,0.0,37.7,0.149,1.599,199.513
-Average k=4,4,100.0,0.0,91.8,0.271,0.827,74.427
-"DBSCAN eps=1.0, ms=10",4,76.3,23.7,40.9,0.123,1.677,74.817

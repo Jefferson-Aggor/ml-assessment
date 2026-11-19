@@ -1,6 +1,0 @@
-cluster,segment,price,sold,available,days_since_update,listings,mean_sold,limited_qty_pct,stock_10plus_pct,us_seller_pct,no_date_pct,revenue_share_pct
-0,Stale listings,29.99,34.5,10.0,23.0,144,105.0,1.0,53.0,90.0,0.0,1.7
-1,Premium slow movers,76.82,21.0,5.0,2.0,254,52.0,3.0,19.0,82.0,6.0,5.2
-2,Bulk stockists,26.86,998.0,86.0,2.0,77,1895.0,0.0,0.0,100.0,0.0,14.5
-3,Budget slow movers,24.43,19.0,7.0,2.0,291,40.0,1.0,29.0,92.0,13.0,0.9
-4,Bestsellers,34.995000000000005,551.0,10.0,1.0,234,2495.0,20.0,38.0,97.0,0.0,77.7
