@@ -1,0 +1,12 @@
+group,check,ARI,same segment %,sizes,product-type purity
+Baseline,"Baseline (K-Means, k = 5)",1.0,100.0,291/254/234/144/77,0.569
+Product-type weight,one-hot weight 0.00,0.879,95.5,296/251/225/151/77,0.544
+Product-type weight,one-hot weight 0.50,0.894,96.1,297/251/223/152/77,0.546
+Product-type weight,one-hot weight 1.00,1.0,100.0,291/254/234/144/77,0.569
+Product-type weight,one-hot weight 1.22 (equal to one feature),0.897,96.3,309/240/227/147/77,0.591
+Product-type weight,one-hot weight 1.50,0.465,76.0,322/248/213/139/78,0.665
+Product-type weight,one-hot weight 2.00,0.244,58.7,334/287/184/118/77,0.751
+Missing dates,undated = upper quartile (7 days),0.974,99.0,292/257/235/139/77,0.57
+Missing dates,undated = 90th percentile (18 days),0.841,93.3,253/247/229/194/77,0.567
+Missing dates,undated = oldest observed (582 days),0.696,82.6,324/269/238/88/81,0.553
+Data integrity,conflicting sales record set to its text value (1 listing),0.991,99.7,290/255/234/144/77,0.57
